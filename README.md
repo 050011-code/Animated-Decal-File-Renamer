@@ -7,6 +7,7 @@ Have you ever wanted to make an animated decal, but your sequence of png images 
 
 It uses the python module os, with ```os.rename``` to change the files, that may give warnings about that from the exe, but thats what it does, no virus buddy
 
-You can download the python file and run it if you have python, or use the compiled exe
+**Installing**
+You can download the python file and run it if you have python, or use the compiled exe to not have to install other programs you will not need
 
 Please read any important looking information in the gui, and thank you!
